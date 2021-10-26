@@ -40,7 +40,7 @@ char auth[] = BLYNK_AUTH_TOKEN;
 // Your WiFi credentials.
 // Set password to "" for open networks.
 char ssid[] = "HelloThere";
-char pass[] = "minecraft";
+char pass[] = "GeneralKenobi";
 
 unsigned long last_pressed = 0;
 unsigned long current_millis = 0;
