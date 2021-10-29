@@ -1,8 +1,8 @@
 // Template ID, Device Name and Auth Token are provided by the Blynk.Cloud
 // See the Device Info tab, or Template settings
 #define BLYNK_TEMPLATE_ID "TMPLvUOtRFp5"
-#define BLYNK_DEVICE_NAME "Buddy"
-#define BLYNK_AUTH_TOKEN "8uF1Imzyuh3Y0o9gN6-sfK9cNrT1hjd-"
+#define BLYNK_DEVICE_NAME "Autism Buddy"
+#define BLYNK_AUTH_TOKEN "pAtV4pEiqdkNUBgmF8KsGNlDkHcidSMe"
 
 // Comment this out to disable prints and save space
 #define BLYNK_PRINT Serial
